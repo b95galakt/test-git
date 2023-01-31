@@ -3,4 +3,5 @@ public class third {
    int matvey;
    int matvey2:
    int matvey3:
+   int matgtfghgfgtrfvb4;
 }
