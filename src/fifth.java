@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class fifth {
+public class fifth {
+
+    int www;
+    int 333;
 }
